@@ -1,41 +1,25 @@
 ManifestFileVersion: 0
-CRC: 261779906
+CRC: 1118581663
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9693b3951a43c0bf86aa0b5e5adf6857
+    Hash: fc84d5c6cc30b8c90e48dadda92b46dc
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 974fe07e81fc9eda7451d456cf7e07f2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9693b3951a43c0bf86aa0b5e5adf6857
+    Hash: fc84d5c6cc30b8c90e48dadda92b46dc
 HashAppended: 0
 ClassTypes:
-- Class: 1
-  Script: {instanceID: 0}
-- Class: 4
-  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
-- Class: 43
-  Script: {instanceID: 0}
 - Class: 48
-  Script: {instanceID: 0}
-- Class: 74
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundlesEditor/Materials/CocktailTables_Table.mat
 - Assets/AssetBundlesEditor/Materials/WallArt_WallArt.mat
 - Assets/AssetBundlesEditor/Materials/Sofas_Sofas.mat
-- Assets/AssetBundlesEditor/Models/Sofas_Sofas.fbx
-- Assets/AssetBundlesEditor/Models/WallArt_WallArt.fbx
 - Assets/AssetBundlesEditor/Materials/CocktailTables_Table 3.mat
-- Assets/AssetBundlesEditor/Models/CocktailTables_Table.fbx
-- Assets/AssetBundlesEditor/Models/Sideboards_DeskCase.fbx
 Dependencies: []

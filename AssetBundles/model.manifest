@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2337039568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e035b0fec08c26d4fb50cb80ee8719a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 974fe07e81fc9eda7451d456cf7e07f2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0e035b0fec08c26d4fb50cb80ee8719a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundlesEditor/Models/Sofas_Sofas.fbx
+- Assets/AssetBundlesEditor/Models/WallArt_WallArt.fbx
+- Assets/AssetBundlesEditor/Models/CocktailTables_Table.fbx
+- Assets/AssetBundlesEditor/Models/Sideboards_DeskCase.fbx
+Dependencies: []
