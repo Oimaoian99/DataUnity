@@ -1,20 +1,51 @@
 ManifestFileVersion: 0
-CRC: 4180498211
+CRC: 3295323956
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4d54b14abe29e6b74d9ddec0b6c5501f
+    Hash: 559d3a48ffd731a7c3d544fc402ed527
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2612ac43db082a73502ee80f2eceb73f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4d54b14abe29e6b74d9ddec0b6c5501f
+    Hash: 559d3a48ffd731a7c3d544fc402ed527
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundlesEditor/Textures/WallArt_WallArt.png
+- Assets/AssetBundlesEditor/Textures/TableArt_Book2.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_Cabinet2.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_Desk3.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_Fireplace.tga
+- Assets/AssetBundlesEditor/Textures/AccentTables_SideTable2.tga
+- Assets/AssetBundlesEditor/Textures/CocktailTables_Table4.tga
+- Assets/AssetBundlesEditor/Textures/TableArt_Frame1.tga
+- Assets/AssetBundlesEditor/Textures/AccentTables_SideTable.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_LaundryCabinet_Sink1.tga
+- Assets/AssetBundlesEditor/Textures/AccentTables_SideTable3.tga
+- Assets/AssetBundlesEditor/Textures/Sofas_Sofa2.tga
+- Assets/AssetBundlesEditor/Textures/WallArt_WallArt.tga
+- Assets/AssetBundlesEditor/Textures/CocktailTables_Table5.tga
+- Assets/AssetBundlesEditor/Textures/WallArt_WallArt2.tga
+- Assets/AssetBundlesEditor/Textures/Sofas_Sofa3.tga
+- Assets/AssetBundlesEditor/Textures/TableArt_Book3.tga
+- Assets/AssetBundlesEditor/Textures/Sofas_Sofa1.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_Desk2.tga
+- Assets/AssetBundlesEditor/Textures/TableArt_SigarBox.tga
+- Assets/AssetBundlesEditor/Textures/CocktailTables_Table2.tga
+- Assets/AssetBundlesEditor/Textures/TableArt_Bandage.tga
+- Assets/AssetBundlesEditor/Textures/TableArt_Frame3.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_Cabinet8.tga
+- Assets/AssetBundlesEditor/Textures/AccentTables_Cabinet.tga
+- Assets/AssetBundlesEditor/Textures/CocktailTables_Table3.tga
+- Assets/AssetBundlesEditor/Textures/CocktailTables_Table.tga
+- Assets/AssetBundlesEditor/Textures/TableArt_Book1.tga
+- Assets/AssetBundlesEditor/Textures/TableArt_Frame2.tga
+- Assets/AssetBundlesEditor/Textures/TableArt_Frame4.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_Desk1.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_Desk4.tga
+- Assets/AssetBundlesEditor/Textures/Sideboards_LaundryCabinet.tga
 Dependencies: []

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1885036231
+CRC: 2859731318
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 89dffe12b3a361945b1da3d62b796298
+    Hash: d8671116f704e79d991c2c97052810ca
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d27d605e56b00c7d193d3604b99a7461
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 89dffe12b3a361945b1da3d62b796298
+    Hash: d8671116f704e79d991c2c97052810ca
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,13 +20,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
@@ -45,11 +41,10 @@ Assets:
 - Assets/AssetBundlesEditor/Models/Sideboards_Desk2.FBX
 - Assets/AssetBundlesEditor/Models/TableArt_Book1.FBX
 - Assets/AssetBundlesEditor/Models/TableArt_SigarBox.FBX
-- Assets/AssetBundlesEditor/Models/TableArt_TV.FBX
+- Assets/AssetBundlesEditor/Models/Sideboards_Desk3.FBX
 - Assets/AssetBundlesEditor/Models/Sideboards_Desk4.FBX
 - Assets/AssetBundlesEditor/Models/Sofas_Sofa3.FBX
 - Assets/AssetBundlesEditor/Models/WallArt_WallArt2.FBX
-- Assets/AssetBundlesEditor/Models/Sideboards_Desk3.FBX
 - Assets/AssetBundlesEditor/Models/WallArt_WallArt.FBX
 - Assets/AssetBundlesEditor/Models/TableArt_Frame3.FBX
 - Assets/AssetBundlesEditor/Models/Sofas_Sofa1.FBX
@@ -63,4 +58,5 @@ Assets:
 - Assets/AssetBundlesEditor/Models/TableArt_Frame1.FBX
 - Assets/AssetBundlesEditor/Models/CocktailTables_Table4.FBX
 - Assets/AssetBundlesEditor/Models/CocktailTables_Table5.FBX
-Dependencies: []
+Dependencies:
+- D:/Projects/DesignHome/Assets/AssetBundles/material

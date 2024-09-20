@@ -1,25 +1,56 @@
 ManifestFileVersion: 0
-CRC: 1118581663
+CRC: 1979468354
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fc84d5c6cc30b8c90e48dadda92b46dc
+    Hash: 121e60ef44c200331896b83dc1d19c33
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+    Hash: b30fce1a9ad74efb72be6c308c56e365
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fc84d5c6cc30b8c90e48dadda92b46dc
+    Hash: 121e60ef44c200331896b83dc1d19c33
 HashAppended: 0
 ClassTypes:
 - Class: 21
+  Script: {instanceID: 0}
+- Class: 28
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/AssetBundlesEditor/Materials/WallArt_WallArt2.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_Desk4.mat
 - Assets/AssetBundlesEditor/Materials/CocktailTables_Table.mat
+- Assets/AssetBundlesEditor/Materials/Sofas_Sofa2.mat
+- Assets/AssetBundlesEditor/Materials/TableArt_Frame2.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_Cabinet8.mat
+- Assets/AssetBundlesEditor/Materials/TableArt_Book1.mat
+- Assets/AssetBundlesEditor/Materials/AccentTables_SideTable.mat
+- Assets/AssetBundlesEditor/Materials/CocktailTables_Table3.mat
+- Assets/AssetBundlesEditor/Materials/CocktailTables_Table5.mat
+- Assets/AssetBundlesEditor/Materials/TableArt_Frame1.mat
+- Assets/AssetBundlesEditor/Materials/Sofas_Sofa3.mat
+- Assets/AssetBundlesEditor/Materials/TableArt_Book3.mat
+- Assets/AssetBundlesEditor/Materials/AccentTables_SideTable2.mat
+- Assets/AssetBundlesEditor/Materials/TableArt_SigarBox.mat
+- Assets/AssetBundlesEditor/Materials/TableArt_Frame3.mat
+- Assets/AssetBundlesEditor/Materials/TableArt_Frame4.mat
+- Assets/AssetBundlesEditor/Materials/TableArt_Bandage.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_Desk3.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_LaundryCabinet_Sink1.mat
+- Assets/AssetBundlesEditor/Materials/AccentTables_Cabinet.mat
 - Assets/AssetBundlesEditor/Materials/WallArt_WallArt.mat
-- Assets/AssetBundlesEditor/Materials/Sofas_Sofas.mat
-- Assets/AssetBundlesEditor/Materials/CocktailTables_Table 3.mat
-Dependencies: []
+- Assets/AssetBundlesEditor/Materials/TableArt_Book2.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_Desk1.mat
+- Assets/AssetBundlesEditor/Materials/CocktailTables_Table2.mat
+- Assets/AssetBundlesEditor/Materials/Sofas_Sofa1.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_Desk2.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_Cabinet2.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_LaundryCabinet.mat
+- Assets/AssetBundlesEditor/Materials/AccentTables_SideTable3.mat
+- Assets/AssetBundlesEditor/Materials/Sideboards_Fireplace.mat
+- Assets/AssetBundlesEditor/Materials/CocktailTables_Table4.mat
+Dependencies:
+- D:/Projects/DesignHome/Assets/AssetBundles/sprite
