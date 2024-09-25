@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 394293569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 458a2bb657ab3747a3c272eca2d90b99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 458a2bb657ab3747a3c272eca2d90b99
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundlesEditor/Icon/CocktailTables_Table5.png
+- Assets/AssetBundlesEditor/Icon/CocktailTables_Table.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_Desk4.png
+- Assets/AssetBundlesEditor/Icon/TableArt_Book1.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_LaundryCabinet_Sink1.png
+- Assets/AssetBundlesEditor/Icon/TableArt_Book2.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_Desk3.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_Cabinet8.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_Desk2.png
+- Assets/AssetBundlesEditor/Icon/Sofas_Sofa2.png
+- Assets/AssetBundlesEditor/Icon/TableArt_Frame3.png
+- Assets/AssetBundlesEditor/Icon/CocktailTables_Table3.png
+- Assets/AssetBundlesEditor/Icon/CocktailTables_Table2.png
+- Assets/AssetBundlesEditor/Icon/TableArt_Frame1.png
+- Assets/AssetBundlesEditor/Icon/WallArt_WallArt.png
+- Assets/AssetBundlesEditor/Icon/Sofas_Sofa1.png
+- Assets/AssetBundlesEditor/Icon/TableArt_Book3.png
+- Assets/AssetBundlesEditor/Icon/TableArt_Bandage.png
+- Assets/AssetBundlesEditor/Icon/TableArt_SigarBox.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_Cabinet2.png
+- Assets/AssetBundlesEditor/Icon/AccentTables_Cabinet.png
+- Assets/AssetBundlesEditor/Icon/TableArt_Frame4.png
+- Assets/AssetBundlesEditor/Icon/CocktailTables_Table4.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_Desk1.png
+- Assets/AssetBundlesEditor/Icon/AccentTables_SideTable3.png
+- Assets/AssetBundlesEditor/Icon/TableArt_Frame2.png
+- Assets/AssetBundlesEditor/Icon/WallArt_WallArt2.png
+- Assets/AssetBundlesEditor/Icon/AccentTables_SideTable.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_LaundryCabinet.png
+- Assets/AssetBundlesEditor/Icon/AccentTables_SideTable2.png
+- Assets/AssetBundlesEditor/Icon/Sofas_Sofa3.png
+- Assets/AssetBundlesEditor/Icon/Sideboards_Fireplace.png
+Dependencies: []
